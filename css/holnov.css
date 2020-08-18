@@ -1,0 +1,7 @@
+.diwali:hover{
+	background-image: url(../images/diwali.jpg);
+	background-size: cover;
+	color: white;
+	background-repeat: no-repeat;
+	visibility: visible;
+}

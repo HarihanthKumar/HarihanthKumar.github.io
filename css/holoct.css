@@ -1,0 +1,22 @@
+.dussehra:hover{
+	background-image: url(../images/dussehra.jpg);
+	color: black;
+	background-size: cover;
+	background-repeat: no-repeat;
+	visibility: visible;
+}
+.gandhi:hover{
+	background-image: url(../images/gandhi.jpg);
+	color: black;
+	background-size: cover;
+	background-repeat: no-repeat;
+	visibility: visible;	
+}
+
+.milad:hover{
+	background-image: url(../images/milad.jpg);
+	color: black;
+	background-size: cover;
+	background-repeat: no-repeat;
+	visibility: visible;	
+}

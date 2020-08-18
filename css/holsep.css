@@ -1,0 +1,7 @@
+.ganesh:hover{
+	background-image: url(../images/ganesh.jpg);
+	color: black;
+	background-size: cover;
+	background-repeat: no-repeat;
+	visibility: visible;
+}

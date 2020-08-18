@@ -1,0 +1,7 @@
+.christmas:hover{
+	background-image: url(../images/chris.jpg);
+	background-size: cover;
+	color: white;
+	background-repeat: no-repeat;
+	visibility: visible;
+}

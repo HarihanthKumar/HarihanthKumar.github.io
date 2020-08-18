@@ -1,0 +1,35 @@
+html{
+	height: 100%;
+}
+body{
+	background-color: #25274D;
+}
+h1{
+	color: #737979;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-family: monospace;
+	font-size: 100px;
+}
+
+a{
+	text-decoration: none;
+	color: #000000;
+	font-variant: small-caps;
+	font-size: 40px;
+	font-family: monospace;
+}
+
+div.outer{
+	display: block;
+	margin-left: 35%;
+	margin-bottom: 2%;
+}
+div.inner{
+	display: inline-block;
+	margin-right: 10%;
+	padding: 2% 2% 2% 2%;
+	background-color: #D79922;
+	border-radius: 50%;
+}

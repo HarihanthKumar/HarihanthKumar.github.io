@@ -1,0 +1,23 @@
+.muharram:hover{
+	background-image: url(../images/milad.jpg);
+	color: black;
+	background-size: cover;
+	background-repeat: no-repeat;
+	visibility: visible;
+}
+
+._15:hover{
+	background-image: url(../images/jan26.jpg);
+	color: black;
+	background-size: cover;
+	background-repeat: no-repeat;
+	visibility: visible;	
+}
+
+.onam:hover{
+	background-image: url(../images/onam.jpg);
+	color: black;
+	background-size: cover;
+	background-repeat: no-repeat;
+	visibility: visible;	
+}

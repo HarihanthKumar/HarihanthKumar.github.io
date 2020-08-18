@@ -1,0 +1,23 @@
+.goodfri:hover{
+	background-image: url(../images/jesus.jpg);
+	color: black;
+	background-size: cover;
+	background-repeat: no-repeat;
+	visibility: visible;
+}
+
+._14:hover{
+	background-image: url(../images/ambedkar.jpg);
+	color: black;
+	background-size: cover;
+	background-repeat: no-repeat;
+	visibility: visible;
+}
+
+.mahavir:hover{
+	background-image: url(../images/mahavir.jpg);
+	color: black;
+	background-size: cover;
+	background-repeat: no-repeat;
+	visibility: visible;
+}
